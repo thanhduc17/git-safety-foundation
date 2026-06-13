@@ -32,3 +32,17 @@ This project is used to practice Git/GitHub before Vibe Coding.
 
 Prepare for safe AI-assisted coding workflow.
 
+\## Feature Branch Practice
+
+
+
+This section is created in feature/readme-update branch.
+
+
+
+Purpose:
+
+\- Practice branching
+
+\- Practice merge workflow
+
